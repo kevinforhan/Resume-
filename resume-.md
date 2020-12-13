@@ -5,7 +5,7 @@
 - [https://github.com/kevinforhan](https://github.com/kevinforhan)
 - Chicago, IL
 
-Recent Graduate from Indiana University and Fullstack Academy with experience in Information Technology and fullstack development. I am currently looking for my next opportunity where I can learn, grow and contribute. 
+Recent Graduate from Indiana University and Fullstack Academy with experience in Information Technology and Fullstack development. I am currently looking for my next opportunity where I can learn, grow and contribute. 
 
 ## Experience
 
