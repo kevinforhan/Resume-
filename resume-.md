@@ -32,7 +32,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
    - Designed the game engine using React Native Game Browser to allow for real time fight sequences
    - Incorporated React Native styling to create a more pleasant and engaging user experience
 
-### <span>Doctor Pups</span> <span>Oct 2020</span><span>github.com/kevinforhan/GraceShopper</span>
+### <span>Doctor Pups</span> <span>Oct 2020</span> <span>github.com/kevinforhan/GraceShopper</span>
 
  An e-commerce website selling dogs:
 
@@ -40,7 +40,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
    - Designed 5 separate components with material UI and utilized Redux to handle state
    - Implemented CRUD API routes with express and used Sequelize as the ORM
 
-   ### <span>Fire-Trace</span> <span>Nov 2020</span><span>github.com/kevinforhan/fire-trace</span>
+   ### <span>Fire-Trace</span> <span>Nov 2020</span> <span>github.com/kevinforhan/fire-trace</span>
 
 Map application showing locations of wildfires:
 
