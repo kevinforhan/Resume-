@@ -5,12 +5,9 @@
 - [https://github.com/kevinforhan](https://github.com/kevinforhan)
 - Chicago, IL
 
-Recent Graduate from Indiana University and Fullstack Academy with experience in 
-with experience in Information Technology and front end/back end development. I am currently looking for my next 
-opportunity where I can learn, grow and contribute. 
+Recent Graduate from Indiana University and Fullstack Academy with experience in Information Technology and fullstack development. I am currently looking for my next opportunity where I can learn, grow and contribute. 
 
 ## Experience
-
 
 ### <span>Account Analyst, SpineCraft</span> <span>Oct 2020 -- Present</span>
 
@@ -32,8 +29,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
  iOS fantasy themed app:
 
    - Created custom components using React Native & used Redux and Hooks to handle state
-   - Designed the game engine using React Native Game Browser to allow for real time fight
-sequences
+   - Designed the game engine using React Native Game Browser to allow for real time fight sequences
    - Incorporated React Native styling to create a more pleasant and engaging user experience
 
 ### <span>Doctor Pups</span> <span>Oct 2020</span>
@@ -59,7 +55,7 @@ Map application showing locations of wildfire:
 
   - GPA 3.4
 
-## Skills
+## Technical Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+ - Proficient: Node.js; JavaScript; HTML; CSS; Angular; PostgreSQL; React/Redux; Git; Babel; Express.js; Expo; Socket.IO; Mocha/Chai; Three.js; Jasmine; Heroku; Travis; Matter.js; Electron; Sequelize ORM
+ - Familiar: Python; PHP; MySQL; Forge API; AWS; PowerBI; Django; React Native Game Browser; Apache Spark; Oath; Neo4j
