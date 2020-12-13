@@ -5,7 +5,7 @@
 - [https://github.com/kevinforhan](https://github.com/kevinforhan)
 - Chicago, IL
 
-Recent Graduate from Indiana University and Fullstack Academy with experience in Information Technology and Fullstack development. I am currently looking for my next opportunity where I can learn, grow and contribute. 
+Recent Graduate from Indiana University and Fullstack Academy with experience in Information Technology and Fullstack Development. I am currently looking for my next opportunity where I can learn, grow and contribute. 
 
 ## Experience
 
@@ -24,7 +24,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
 
 ## Projects
 
-### <span>GoalHero</span> <span>Oct 2020</span>
+### <span>GoalHero</span> <span>Oct 2020</span> <span>github.com/kevinforhan/GoalHero</span>
 
  iOS fantasy themed app:
 
@@ -32,7 +32,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
    - Designed the game engine using React Native Game Browser to allow for real time fight sequences
    - Incorporated React Native styling to create a more pleasant and engaging user experience
 
-### <span>Doctor Pups</span> <span>Oct 2020</span>
+### <span>Doctor Pups</span> <span>Oct 2020</span><span>github.com/kevinforhan/GraceShopper</span>
 
  An e-commerce website selling dogs:
 
@@ -40,9 +40,9 @@ Django which simplified shipping and purchasing of over 3,000 computing items
    - Designed 5 separate components with material UI and utilized Redux to handle state
    - Implemented CRUD API routes with express and used Sequelize as the ORM
 
-   ### <span>Fire-Trace</span> <span>Nov 2020</span>
+   ### <span>Fire-Trace</span> <span>Nov 2020</span><span>github.com/kevinforhan/fire-trace</span>
 
-Map application showing locations of wildfire:
+Map application showing locations of wildfires:
 
    - Obtained NASA API to chart over 100 wildfires throughout the world in real time
    - Formalized Google Maps API Keys to create a UI map which includes wildfire ID and Title
