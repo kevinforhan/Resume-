@@ -9,14 +9,14 @@ Recent Graduate from Indiana University and Fullstack Academy with experience in
 
 ## Experience
 
-### <span>Account Analyst, SpineCraft</span> <span>Oct 2020 -- Present</span>
+### <span>Account Analyst, SpineCraft</span>   <span>Oct 2020 -- Present</span>
 
  -  Interpret customer needs for impending spinal surgery to ensure providers are properly
 equipped
  - Revitalize SpineCraft agreements with distributors by negotiating a reduction in shipping costs
 by more than 7%
 
-### <span>IT Intern, Dupage Medical Group</span> <span>June 2019 -- August 2020</span>
+### <span>IT Intern, Dupage Medical Group</span>   <span>June 2019 -- August 2020</span>
  
  - Enhanced company inventory management by devising new computing tracking system using
 Django which simplified shipping and purchasing of over 3,000 computing items
@@ -24,7 +24,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
 
 ## Projects
 
-### <span>GoalHero</span> <span>Oct 2020</span> <span>github.com/kevinforhan/GoalHero</span>
+### <span>GoalHero</span>   <span>Oct 2020</span>   <span>github.com/kevinforhan/GoalHero</span>
 
  iOS fantasy themed app:
 
@@ -32,7 +32,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
    - Designed the game engine using React Native Game Browser to allow for real time fight sequences
    - Incorporated React Native styling to create a more pleasant and engaging user experience
 
-### <span>Doctor Pups</span> <span>Oct 2020</span> <span>github.com/kevinforhan/GraceShopper</span>
+### <span>Doctor Pups</span>   <span>Oct 2020</span>   <span>github.com/kevinforhan/GraceShopper</span>
 
  An e-commerce website selling dogs:
 
@@ -40,7 +40,7 @@ Django which simplified shipping and purchasing of over 3,000 computing items
    - Designed 5 separate components with material UI and utilized Redux to handle state
    - Implemented CRUD API routes with express and used Sequelize as the ORM
 
-   ### <span>Fire-Trace</span> <span>Nov 2020</span> <span>github.com/kevinforhan/fire-trace</span>
+   ### <span>Fire-Trace</span>   <span>Nov 2020</span>   <span>github.com/kevinforhan/fire-trace</span>
 
 Map application showing locations of wildfires:
 
